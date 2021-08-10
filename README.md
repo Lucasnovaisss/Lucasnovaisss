@@ -1,5 +1,8 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Olá mundo eu sou o Lucas Novais** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
+<img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" >
+ 
+
 
 🖥️ I want to be a Full Stack Developer!
 
