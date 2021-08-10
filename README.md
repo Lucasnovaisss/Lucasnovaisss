@@ -3,7 +3,7 @@
 
 🖥️ I want to be a Full Stack Developer!
 
-🇧🇷 I’m from Botucatu-SP, Brazil. 
+🇧🇷 eu sou de itapevi SP
 
 📚 I’m currently learning everything about technology and software development.
 
@@ -19,6 +19,7 @@ In the future I want to learn Flutter to develop for Android and IOS.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasnovaisss" />
 </a>
 <a href="https://github.com/Lucasnovaisss">
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasnovaisss_icons=true)
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
